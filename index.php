@@ -7,8 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Hello world";
-    
+    <?php 
+    echo "Hello world";
     $variable1 = 12;
     $variable2 = 10;
 
