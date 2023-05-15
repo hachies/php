@@ -54,4 +54,5 @@ if ($variabele1 == $variabele2) {
 }
 
 ?>
+</body>
 </html>
